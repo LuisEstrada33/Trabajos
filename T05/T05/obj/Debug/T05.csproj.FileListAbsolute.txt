@@ -1,0 +1,7 @@
+C:\Users\boyhu\source\repos\T05\T05\bin\Debug\T05.exe.config
+C:\Users\boyhu\source\repos\T05\T05\bin\Debug\T05.exe
+C:\Users\boyhu\source\repos\T05\T05\bin\Debug\T05.pdb
+C:\Users\boyhu\source\repos\T05\T05\obj\Debug\T05.csprojAssemblyReference.cache
+C:\Users\boyhu\source\repos\T05\T05\obj\Debug\T05.csproj.CoreCompileInputs.cache
+C:\Users\boyhu\source\repos\T05\T05\obj\Debug\T05.exe
+C:\Users\boyhu\source\repos\T05\T05\obj\Debug\T05.pdb
